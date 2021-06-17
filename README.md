@@ -9,5 +9,5 @@
 4. (Thursday, 7/8) Visualization - Amber
 5. (Tuesday, 7/13) Statistics - Ben
 6. (Thursday, 7/15) Genomics (RNAseq) - Ben
-7. (Tuesday, 7/20) Machine Learning - Shaina (scikit-learn)/ Amber (tensorflow)
-8. (Thursday, 7/22) Image Analysis - Shaina
+7. (Tuesday, 7/20) Machine Learning 1 - Shaina (scikit-learn)
+8. (Thursday, 7/22) Machine Learning 2 - Amber (tensorflow)
