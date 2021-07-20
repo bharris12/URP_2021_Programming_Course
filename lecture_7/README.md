@@ -1,4 +1,5 @@
-Tensorflow colab:
-https://colab.research.google.com/drive/1YKe7vckCO4Uf44yNx701-RLYxGKmFA1D?usp=sharing
+skelarn (emtpy)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bharris12/URP_2021_Programming_Course/blob/main/lecture_4/7_sklearn_empty.ipynb)
 
-https://colab.research.google.com/drive/1Pdj5rY5Bov1EyjeqlV2Z1_GYw3Ww2Dfm?usp=sharing
+sklearn (filled)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bharris12/URP_2021_Programming_Course/blob/main/lecture_4/7_sklearn.ipynb)
